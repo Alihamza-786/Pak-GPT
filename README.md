@@ -12,3 +12,10 @@ No API required: Pak-GPT runs entirely locally on your laptop, so you don’t ne
 Cost-effective: Since it runs locally, you don’t need to pay for any cloud or API usage.
 
 Powered by Ollama LLaMA 3.1 model: Pak-GPT leverages the powerful LLaMA 3.1 model via Ollama for fast and reliable responses.
+
+Setup:
+1. Download and install Ollama: https://ollama.com/download/windows
+
+2. After downloading Ollama, pull the 'llama3.1' model : https://github.com/ollama/ollama
+or Open cmd and run the command: ollama run llama3.1
+3. install requirements and you are good to go
